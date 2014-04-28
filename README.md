@@ -5,8 +5,8 @@ Hey there!
 Thanks for reviewing my code. I have finished all the objectives listed in the instruction, and also I added some comments to make your review easier!
 
 ======In case you want to run the code======
-1 source("cachematrix.R")
-2 x <- yourmatrix ## Here you can define your own test matrix
+>source("cachematrix.R")
+>x <- yourmatrix ## Here you can define your own test matrix
 3 list <- makeCacheMatrix() ## Get the special "cache matrix" 
 4 list$set(x) ## Set the matrix
 5 list$get() ## Get the matrix
