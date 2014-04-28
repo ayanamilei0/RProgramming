@@ -6,6 +6,7 @@ Thanks for reviewing my code. I have finished all the objectives listed in the i
 
 ======In case you want to run the code======
 > source("cachematrix.R")
+
 > x <- yourmatrix ## Here you can define your own test matrix
 > list <- makeCacheMatrix() ## Get the special "cache matrix" 
 > list$set(x) ## Set the matrix
