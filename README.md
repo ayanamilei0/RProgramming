@@ -11,10 +11,8 @@ Thanks for reviewing my code. I have finished all the objectives listed in the i
 > list$set(x) ## Set the matrix
 > list$get() ## Get the matrix
 > list$setinv(b) ## Set the inverse
-> list$getinv() ## Get the inverse  1
-> cacheSolve(list) ## Give you the inverse: if it has been cached by list$setinv, it will show "Getting cached inverse" 
-## and display the inverse; if the inverse has not been cached, this sentence will calculate, display and cached the
-## inverse for you
+> list$getinv() ## Get the inverse
+> cacheSolve(list) ## Give you the inverse: if it has been cached by list$setinv, it will show "Getting cached inverse" and display the inverse; if the inverse has not been cached, this sentence will calculate, display and cached the inverse for you
 ====================END=====================
 
 Cheers, 
